@@ -1,0 +1,28 @@
+{
+    "Host_message_field_data":"abcdefghi",
+    "Host-message_field_extra_data":"ggdydjsssckjiddi",
+    "T3_auto_adjust_value":"1",
+    "Link_test_interval_value": "12345",
+    "Link_test_interval_invalid_value": "@@#$&*)(-_",
+    "IPv4_address": "127.100.90.168",
+    "IPv6_address": "fe80::2e7c:fd64:ac05:9cf16",
+    "T3_timeout_invalid_value": "324556457755",
+    "Valid_ip_two_digit": "12.34.50.77",
+    "TCP_valid_value":465,
+    "Device_ID_valid_value":32767,
+    "Device_ID_invalid_value":32769,
+    "T3_Timeout_valid_value":120000,
+    "T3_Timeout_invalid_value":120003,
+    "T5_Timeout_valid_value":240000,
+    "T5_Timeout_invalid_value":240003,
+    "T6_Timeout_valid_value":240000,
+    "T6_Timeout_invalid_value":240003,
+    "T7_Timeout_valid_value":240000,
+    "T7_Timeout_invalid_value":240003,
+    "T8_Timeout_valid_value":120000,
+    "T8_Timeout_invalid_value":120003,
+    "Search_value":"xyz",
+    "T3_timeout_value":"1234"
+
+
+}

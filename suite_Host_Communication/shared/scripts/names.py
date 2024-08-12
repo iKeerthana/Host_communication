@@ -1,0 +1,50 @@
+# encoding: UTF-8
+
+from objectmaphelper import *
+
+App_Name= "EcsApp"
+equipment_Button = {"text": "Equipment", "type": "Button"}
+#x_Button_2 = {"text": "x", "type": "Button"}
+information_Window = {"text": "Information", "type": "Window"}
+main_Window = {"text": "main", "type": "Window"}
+o_Edit = {"occurrence": 3, "type": "Edit"}
+o_Edit_2 = {"occurrence": 2, "type": "Edit"}
+o_Pane = {"text": "", "type": "Pane"}
+o_Toolbar = {"container": o_Pane, "type": "Toolbar"}
+save_Button = {"text": "Save", "type": "Button"}
+o_Edit_3 = {"type": "Edit"}
+tool_status_Button = {"text": "Tool status", "type": "Button"}
+desktop_1_Pane = {"text": "Desktop 1", "type": "Pane"}
+o_MenuBar = {"type": "MenuBar"}
+vaccuum_Overview_Button = {"text": "Vaccuum Overview", "type": "Button"}
+o_Edit_4 = {"occurrence": 3, "type": "Edit"}
+o_Edit_5 = {"occurrence": 5, "type": "Edit"}
+#host_Button = {"text": "Host", "type": "Button"}
+o_ComboBox = {"type": "ComboBox"}
+o_Edit_6 = {"occurrence": 4, "type": "Edit"}
+eCS_Feature_TestPlan_Google_Sheets_Google_Chrome_Window = {"text": "ECS Feature TestPlan - Google Sheets - Google Chrome", "type": "Window"}
+task_Switching_Window = {"text": "Task Switching", "type": "Window"}
+o_Window = {"text": "", "type": "Window"}
+o_Edit_7 = {"occurrence": 3, "type": "Edit"}
+o_Label = {"occurrence": 3, "text": "", "type": "Label"}
+o_Edit_8 = {"occurrence": 11, "type": "Edit"}
+cancel_Button = {"text": "Cancel", "type": "Button"}
+apply_Button = {"text": "Apply", "type": "Button"}
+eCSUI_Window = {"text": "ecs", "type": "Window"}
+o_Edit_9 = {"occurrence": 6, "type": "Edit"}
+disable_Button = {"text": "Disable", "type": "Button"}
+enable_Button = {"text": "Enable" , "type": "Button"}
+equipment_Offline_Button = {"text": "Equipment Offline", "type": "Button"}
+online_Remote_Button = {"text": "Online Remote", "type": "Button"}
+online_Local_Button = {"text": "Online Local", "type": "Button"}
+#ecs_Window = {"text": "ecs", "type": "Window"}
+o_Edit_10 = {"occurrence": 14, "type": "Edit"}
+maintenance_Button = {"text": "Maintenance", "type": "Button"}
+x_Button_2 = {"occurrence": 3, "text": "", "type": "Button"}
+json_file_path = r"C:\Users\asm2257\OneDrive\OPC build\suite_Host_Communication\communicationdata.json"
+o_Edit_11 = {"occurrence": 7, "type": "Edit"}
+ecs_Window = {"text": "ecs", "type": "Window"}
+tool_Status_Button = {"text": "Tool Status", "type": "Button"}
+communication_Button = {"text": "Communication", "type": "Button"}
+host_Button = {"text": "Host", "type": "Button"}
+sleep=int("10")
